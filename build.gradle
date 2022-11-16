@@ -5,6 +5,7 @@ buildscript {
         archLifecycleVersion = '2.6.0-alpha03'
         coreKtxVersion = '1.9.0'
         constraintLayoutVersion = '2.1.4'
+        datastoreVersion = '1.0.0'
         espressoVersion='3.2.0'
         fragmentKtxVersion = '1.5.4'
         glideVersion = '4.14.2'
